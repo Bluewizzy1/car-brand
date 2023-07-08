@@ -1,0 +1,35 @@
+[
+
+    {"name": "Toyota", "model": "Corolla", "year": 2018, "color": "Silver", "price": 15000.00},
+
+    {"name": "Honda", "model": "Accord", "year": 2019, "color": "White", "price": 18000.00},
+
+    {"name": "Ford", "model": "Mustang", "year": 2020, "color": "Red", "price": 25000.00},
+
+    {"name": "Chevrolet", "model": "Camaro", "year": 2017, "color": "Yellow", "price": 22000.00},
+
+    {"name": "Nissan", "model": "Altima", "year": 2016, "color": "Blue", "price": 12000.00},
+
+    {"name": "BMW","model": "X5", "year": 2021,"color": "Black","price": 40000.00},
+
+    {"name": "Mercedes-Benz","model": "C-Class", "year": 2018,"color": "Silver","price": 30000.00},
+
+    {"name": "Audi","model": "A4", "year": 2019,"color": "White","price": 28000.00},
+
+    {"name": "Volkswagen","model": "Golf", "year": 2017,"color": "Blue","price": 15000.00},
+
+    {"name": "Hyundai","model": "Elantra", "year": 2016,"color": "React", "price": 11000.00},
+
+    {"name": "Kia","model": "Optima", "year": 2019, "color": "Silver", "price": 16000.00},
+
+    {"name": "Lexus","model": "RX", "year": 2017, "color": "White", "price": 35000.00},
+
+    {"name": "Tesla","model": "Model 3", "year": 2020, "color": "Blue", "price": 50000.00},
+
+    {"name": "Subaru","model": "Forester", "year": 2018, "color": "Green", "price": 20000.00},
+
+    {"name": "Mazda","model": "CX-5", "year": 2019, "color": "Red", "price": 22000.00},
+
+    {"name": "Volvo","model": "XC90", "year": 2017, "color": "Black", "price": 38000.00}
+
+]
